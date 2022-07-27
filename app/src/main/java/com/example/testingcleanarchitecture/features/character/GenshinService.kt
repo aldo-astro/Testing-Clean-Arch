@@ -1,0 +1,3 @@
+package com.example.testingcleanarchitecture.features.character
+
+interface GenshinService
